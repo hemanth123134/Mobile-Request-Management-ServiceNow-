@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="22dfbfd883003210a4f252e0deaad31f" extends="cmdb_ci" label="mobile devices" max_length="40" name="x_888083_mobile_re_mobile_devices" type="collection"/>
+</database>

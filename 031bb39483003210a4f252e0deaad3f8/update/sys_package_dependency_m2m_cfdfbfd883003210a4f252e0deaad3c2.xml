@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Configuration Management (CMDB)" source="com.snc.cmdb">ff833433bd7222104f34afdd794b6aeb</dependency>
+        <min_version>1.1</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-14 06:17:30</sys_created_on>
+        <sys_id>cfdfbfd883003210a4f252e0deaad3c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Mobile Request Management" source="x_888083_mobile_re">031bb39483003210a4f252e0deaad3f8</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-14 06:17:30</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
