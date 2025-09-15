@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="a05830ec83043210a4f252e0deaad388" sys_domain="global" table="x_888083_mobile_re_mobile_devices" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-14 10:24:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>285870ec83043210a4f252e0deaad315</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_888083_mobile_re_mobile_devices" name="x_888083_mobile_re_mobile_devices" sys_domain="global" view="Default view">a05830ec83043210a4f252e0deaad388</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_devices" sys_domain="global" view="Default view">720a40e083403210a4f252e0deaad30c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-14 10:24:11</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-14 10:24:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>245870ec83043210a4f252e0deaad316</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_888083_mobile_re_mobile_devices" name="x_888083_mobile_re_mobile_devices" sys_domain="global" view="Default view">a05830ec83043210a4f252e0deaad388</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_888083_mobile_re_mobile_devices" sys_domain="global" view="Default view">ec5830ec83043210a4f252e0deaad384</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-14 10:24:11</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-14 10:30:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b1d9bc2083443210a4f252e0deaad360</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_888083_mobile_re_mobile_devices" name="x_888083_mobile_re_mobile_devices" sys_domain="global" view="Default view">a05830ec83043210a4f252e0deaad388</sys_ui_form>
+            <sys_ui_section caption="Price and Warranty" display_value="Price and Warranty" name="x_888083_mobile_re_mobile_devices" sys_domain="global" view="Default view">fdd9bc2083443210a4f252e0deaad305</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-14 10:30:49</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_888083_mobile_re_mobile_devices</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-14 10:24:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a05830ec83043210a4f252e0deaad388</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_888083_mobile_re_mobile_devices</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Mobile Request Management" source="x_888083_mobile_re">031bb39483003210a4f252e0deaad3f8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</sys_scope>
+            <sys_update_name>sys_ui_form_sections_a05830ec83043210a4f252e0deaad388</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-14 10:24:11</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <decision_type>allow</decision_type>
+        <description/>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_888083_mobile_re_mobile_devices</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-14 06:17:33</sys_created_on>
+        <sys_id>3fdfffd883003210a4f252e0deaad3f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_888083_mobile_re_mobile_devices</sys_name>
+        <sys_package display_value="Mobile Request Management" source="x_888083_mobile_re">031bb39483003210a4f252e0deaad3f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</sys_scope>
+        <sys_update_name>sys_security_acl_3fdfffd883003210a4f252e0deaad3f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-14 06:17:33</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</application>
+        <file_path/>
+        <instance_id>ceb872b1db12b1102f082a5913961946</instance_id>
+        <instance_name>dev204629</instance_name>
+        <name>sys_security_acl_3fdfffd883003210a4f252e0deaad3f7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><decision_type>allow</decision_type><description/><local_or_existing>Local</local_or_existing><name>x_888083_mobile_re_mobile_devices</name><operation display_value="write">write</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-14 06:17:33</sys_created_on><sys_id>3fdfffd883003210a4f252e0deaad3f7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_888083_mobile_re_mobile_devices</sys_name><sys_package display_value="Mobile Request Management" source="x_888083_mobile_re">031bb39483003210a4f252e0deaad3f8</sys_package><sys_policy/><sys_scope display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</sys_scope><sys_update_name>sys_security_acl_3fdfffd883003210a4f252e0deaad3f7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-14 06:17:33</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>2038672358</payload_hash>
+        <record_name>x_888083_mobile_re_mobile_devices</record_name>
+        <reverted_from/>
+        <source>8f1bb39483003210a4f252e0deaad3fc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-14 06:17:33</sys_created_on>
+        <sys_id>b7dfffd883003210a4f252e0deaad3fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19946df24b80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-14 06:17:33</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>bbdfffd8090032107495dc3768ec77f9</update_guid>
+        <update_guid_history>bbdfffd8090032107495dc3768ec77f9:2038672358</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-15 14:37:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>04a57a49d6d7410aa492f28f9c9f13d1</sys_id>
+        <sys_metadata>3fdfffd883003210a4f252e0deaad3f7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_888083_mobile_re_mobile_devices</sys_name>
+        <sys_package display_value="Mobile Request Management" source="x_888083_mobile_re">031bb39483003210a4f252e0deaad3f8</sys_package>
+        <sys_parent display_value="x_888083_mobile_re_mobile_devices">2adfbfd883003210a4f252e0deaad321</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</sys_scope>
+        <sys_scope_delete display_value="">6012e3eb19c544aa8fbcea5891b35a44</sys_scope_delete>
+        <sys_update_name>sys_security_acl_3fdfffd883003210a4f252e0deaad3f7</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_3fdfffd883003210a4f252e0deaad3f7">b7dfffd883003210a4f252e0deaad3fa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-15 14:37:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
