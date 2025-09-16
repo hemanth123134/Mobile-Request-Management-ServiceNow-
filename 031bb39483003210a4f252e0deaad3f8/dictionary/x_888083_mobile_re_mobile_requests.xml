@@ -11,12 +11,14 @@
         </element>
         <element attributes="edge_encryption_enabled=true" label="Mobile description" max_length="40" name="u_string_6" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Warrenty" max_length="40" name="u_glide_date_8" read_only="true" type="glide_date"/>
+        <element attributes="encode_utf8=false" label="Department" max_length="32" name="u_reference_3" reference="cmn_department" type="reference"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Type" max_length="40" name="u_choice_2" type="string">
             <choice>
                 <element inactive_on_update="false" label="Tab" sequence="1" value="tab"/>
                 <element inactive_on_update="false" label="Mobile" sequence="0" value="mobile"/>
             </choice>
         </element>
+        <element label="Total cost" max_length="40" name="total_cost" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Mobile model" max_length="40" name="u_string_5" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Delivery Date" max_length="40" name="u_glide_date_4" type="glide_date"/>
         <element attributes="encode_utf8=false" label="Requestor Name" mandatory="true" max_length="32" name="u_reference_2" reference="sys_user" type="reference"/>

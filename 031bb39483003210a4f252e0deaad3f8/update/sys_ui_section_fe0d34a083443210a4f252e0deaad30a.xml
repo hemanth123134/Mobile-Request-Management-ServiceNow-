@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-14 16:42:15</sys_created_on>
-            <sys_id>7ade4e2483c83210a4f252e0deaad38c</sys_id>
+            <sys_created_on>2025-09-16 18:24:29</sys_created_on>
+            <sys_id>ef69f411834cf210a4f252e0deaad389</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_requests" sys_domain="global" view="Default view">fe0d34a083443210a4f252e0deaad30a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-14 16:42:15</sys_updated_on>
+            <sys_updated_on>2025-09-16 18:24:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,27 +18,27 @@
             <element>u_reference_1</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-14 16:42:15</sys_created_on>
-            <sys_id>36de4e2483c83210a4f252e0deaad38d</sys_id>
+            <sys_created_on>2025-09-16 18:24:29</sys_created_on>
+            <sys_id>2f69f411834cf210a4f252e0deaad38a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_requests" sys_domain="global" view="Default view">fe0d34a083443210a4f252e0deaad30a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-14 16:42:15</sys_updated_on>
+            <sys_updated_on>2025-09-16 18:24:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>company</element>
+            <element>u_reference_3</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-14 16:42:15</sys_created_on>
-            <sys_id>bade4e2483c83210a4f252e0deaad38d</sys_id>
+            <sys_created_on>2025-09-16 18:24:29</sys_created_on>
+            <sys_id>2769f411834cf210a4f252e0deaad38b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_requests" sys_domain="global" view="Default view">fe0d34a083443210a4f252e0deaad30a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-14 16:42:15</sys_updated_on>
+            <sys_updated_on>2025-09-16 18:24:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,111 +46,125 @@
             <element>u_choice_2</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-14 16:42:15</sys_created_on>
-            <sys_id>32de4e2483c83210a4f252e0deaad38e</sys_id>
+            <sys_created_on>2025-09-16 18:24:29</sys_created_on>
+            <sys_id>2f69f411834cf210a4f252e0deaad38b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_requests" sys_domain="global" view="Default view">fe0d34a083443210a4f252e0deaad30a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-14 16:42:15</sys_updated_on>
+            <sys_updated_on>2025-09-16 18:24:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_cost</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-16 18:24:29</sys_created_on>
+            <sys_id>3769f411834cf210a4f252e0deaad38c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_requests" sys_domain="global" view="Default view">fe0d34a083443210a4f252e0deaad30a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-16 18:24:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-14 16:42:15</sys_created_on>
-            <sys_id>b6de4e2483c83210a4f252e0deaad38e</sys_id>
+            <sys_created_on>2025-09-16 18:24:29</sys_created_on>
+            <sys_id>3f69f411834cf210a4f252e0deaad38c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_requests" sys_domain="global" view="Default view">fe0d34a083443210a4f252e0deaad30a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-14 16:42:15</sys_updated_on>
+            <sys_updated_on>2025-09-16 18:24:29</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_reference_2</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-14 16:42:15</sys_created_on>
-            <sys_id>3ede4e2483c83210a4f252e0deaad38e</sys_id>
+            <sys_created_on>2025-09-16 18:24:29</sys_created_on>
+            <sys_id>3769f411834cf210a4f252e0deaad38d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_requests" sys_domain="global" view="Default view">fe0d34a083443210a4f252e0deaad30a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-14 16:42:15</sys_updated_on>
+            <sys_updated_on>2025-09-16 18:24:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_string_3</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-14 16:42:15</sys_created_on>
-            <sys_id>b2de4e2483c83210a4f252e0deaad38f</sys_id>
+            <sys_created_on>2025-09-16 18:24:29</sys_created_on>
+            <sys_id>3f69f411834cf210a4f252e0deaad38d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_requests" sys_domain="global" view="Default view">fe0d34a083443210a4f252e0deaad30a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-14 16:42:15</sys_updated_on>
+            <sys_updated_on>2025-09-16 18:24:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_choice_1</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-14 16:42:15</sys_created_on>
-            <sys_id>3ade4e2483c83210a4f252e0deaad38f</sys_id>
+            <sys_created_on>2025-09-16 18:24:29</sys_created_on>
+            <sys_id>3769f411834cf210a4f252e0deaad38e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_requests" sys_domain="global" view="Default view">fe0d34a083443210a4f252e0deaad30a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-14 16:42:15</sys_updated_on>
+            <sys_updated_on>2025-09-16 18:24:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_glide_date_4</element>
-            <position>8</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-14 16:42:15</sys_created_on>
-            <sys_id>bede4e2483c83210a4f252e0deaad38f</sys_id>
+            <sys_created_on>2025-09-16 18:24:29</sys_created_on>
+            <sys_id>3f69f411834cf210a4f252e0deaad38e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_requests" sys_domain="global" view="Default view">fe0d34a083443210a4f252e0deaad30a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-14 16:42:15</sys_updated_on>
+            <sys_updated_on>2025-09-16 18:24:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>9</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-14 16:42:15</sys_created_on>
-            <sys_id>36de4e2483c83210a4f252e0deaad390</sys_id>
+            <sys_created_on>2025-09-16 18:24:29</sys_created_on>
+            <sys_id>3769f411834cf210a4f252e0deaad38f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_requests" sys_domain="global" view="Default view">fe0d34a083443210a4f252e0deaad30a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-14 16:42:15</sys_updated_on>
+            <sys_updated_on>2025-09-16 18:24:29</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
-            <position>10</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-14 16:42:15</sys_created_on>
-            <sys_id>bade4e2483c83210a4f252e0deaad390</sys_id>
+            <sys_created_on>2025-09-16 18:24:29</sys_created_on>
+            <sys_id>3f69f411834cf210a4f252e0deaad38f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_requests" sys_domain="global" view="Default view">fe0d34a083443210a4f252e0deaad30a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-14 16:42:15</sys_updated_on>
+            <sys_updated_on>2025-09-16 18:24:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
