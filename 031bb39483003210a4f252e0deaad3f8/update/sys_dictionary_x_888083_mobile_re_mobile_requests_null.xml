@@ -53,9 +53,9 @@
         <sys_scope display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</sys_scope>
         <sys_update_name>sys_dictionary_x_888083_mobile_re_mobile_requests_null</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-09-14 06:13:50</sys_updated_on>
+        <sys_updated_on>2025-09-17 07:48:22</sys_updated_on>
         <table_reference>false</table_reference>
-        <text_index>false</text_index>
+        <text_index>true</text_index>
         <unique>false</unique>
         <use_dependent_field>false</use_dependent_field>
         <use_dynamic_default>false</use_dynamic_default>

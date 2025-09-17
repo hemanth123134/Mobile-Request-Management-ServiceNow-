@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="New Section" section_id="a1b1f3d1830c3610a4f252e0deaad3d3" sys_domain="global" table="x_888083_mobile_re_mobile_devices" version="3" view="workspace-mobile-request-management-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-17 07:49:36</sys_created_on>
+            <sys_id>21b1f3d1830c3610a4f252e0deaad3fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_888083_mobile_re_mobile_devices" sys_domain="global" view="e561b3118f0c36105506265447da87a7">a1b1f3d1830c3610a4f252e0deaad3d3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-17 07:49:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_888083_mobile_re_mobile_devices</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-17 07:49:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a1b1f3d1830c3610a4f252e0deaad3d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_888083_mobile_re_mobile_devices</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Mobile Request Management" source="x_888083_mobile_re">031bb39483003210a4f252e0deaad3f8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</sys_scope>
+            <sys_update_name>sys_ui_section_a1b1f3d1830c3610a4f252e0deaad3d3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-17 07:49:36</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace Mobile Request Management 0" name="workspace-mobile-request-management-0">e561b3118f0c36105506265447da87a7</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

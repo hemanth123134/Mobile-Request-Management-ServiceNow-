@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="22dfbfd883003210a4f252e0deaad31f" extends="cmdb_ci" label="mobile devices" max_length="40" name="x_888083_mobile_re_mobile_devices" type="collection">
+    <element db_object_id="22dfbfd883003210a4f252e0deaad31f" extends="cmdb_ci" label="mobile devices" max_length="40" name="x_888083_mobile_re_mobile_devices" text_index="true" type="collection">
         <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Price" max_length="20" name="u_price_3" type="price"/>
         <element attributes="encode_utf8=false" label="Device Name" max_length="32" name="u_reference_1" reference="sc_mobile_layout" type="reference"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Mobile Category" mandatory="true" max_length="40" name="u_choice_2" type="string">
