@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2c3607d2834cf210a4f252e0deaad32c" extends="sys_import_set_row" label="mobiles data" max_length="40" name="x_888083_mobile_re_mobiles_data" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Mobile Category" label="Mobile Category" max_length="40" name="u_mobile_category" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Updated" label="Updated" max_length="40" name="u_updated" type="string"/>
+        <element attributes="import_attribute_name=Cost" label="Cost" max_length="40" name="u_cost" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Owned by" label="Owned by" max_length="40" name="u_owned_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Description" label="Description" max_length="40" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Manufacturer" label="Manufacturer" max_length="40" name="u_manufacturer" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Mobile Number Series" label="Mobile Number Series" max_length="40" name="u_mobile_number_series" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+    </element>
+</database>

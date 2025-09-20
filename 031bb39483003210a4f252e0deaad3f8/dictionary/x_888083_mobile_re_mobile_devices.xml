@@ -5,7 +5,10 @@
         <element attributes="edge_encryption_enabled=true" choice="1" label="Mobile Category" mandatory="true" max_length="40" name="u_choice_2" type="string">
             <choice>
                 <element inactive_on_update="false" label="Vivo" sequence="2" value="vivo"/>
+                <element inactive_on_update="false" label="Realme" sequence="0" value="Realme"/>
                 <element inactive_on_update="false" label="Iphone" sequence="0" value="iphone"/>
+                <element inactive_on_update="false" label="Redmi" sequence="0" value="Redmi"/>
+                <element inactive_on_update="false" label="iQOO" sequence="0" value="iQOO"/>
                 <element inactive_on_update="false" label="Samsung" sequence="3" value="samsung"/>
                 <element inactive_on_update="false" label="Oppo" sequence="1" value="oppo"/>
             </choice>
