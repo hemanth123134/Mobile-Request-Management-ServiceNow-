@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>true</click_in_mode>
+        <context_config_id display_value="Mobile Request Management AI Search Configuration">90cca24041f8be10227e223fe3b1cf6f</context_config_id>
+        <limit>5</limit>
+        <order>100</order>
+        <section_header>Recent searches</section_header>
+        <suggestion_type>Recent Search Reader Group for Starter Workspace AI Search Configuration</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-20 12:23:01</sys_created_on>
+        <sys_id>18cca24058f8be105dfd0716bb9dd66f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Recent Search Reader Group for Starter Workspace AI Search Configuration</sys_name>
+        <sys_package display_value="Mobile Request Management" source="x_888083_mobile_re">031bb39483003210a4f252e0deaad3f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_18cca24058f8be105dfd0716bb9dd66f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-20 12:23:01</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>

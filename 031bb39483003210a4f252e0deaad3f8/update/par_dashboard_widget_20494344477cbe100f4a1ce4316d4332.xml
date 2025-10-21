@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">aacca64047f8be100f4a1ce4316d4342</canvas>
+        <component display_value="Rich text">2d56f06d55f46bbd4e79b5e624beb940</component>
+        <component_props>{"html":"&lt;div style=\"background: linear-gradient(120deg, #cdb446 0%, #ffeab7 100%); border-radius: 14px; box-shadow: 0 2px 9px rgba(205,180,70,0.09); min-height: 48px; /* approx height 3 units */  width: 100%; /* will fill most containers; adjust as needed for 35 units */  max-width: 980px; margin: 26px auto 0 auto; display: flex; align-items: center; justify-content: center; font-family: 'Segoe UI', 'Arial', sans-serif;\"&gt;&lt;span style=\"font-size: 1.6rem; color: #21273c; font-weight: 600; letter-spacing: 0.5px; display: flex; align-items: center; gap: 14px;\"&gt; Order premium your mobile &lt;span style=\"display: inline-block; font-size: 1.8rem; color: #21273c; font-weight: 800; padding-left: 6px;\"&gt;&amp;rarr;&lt;/span&gt; &lt;/span&gt;&lt;/div&gt;","id":"html","value":"&lt;div style=\"background: linear-gradient(120deg, #cdb446 0%, #ffeab7 100%); border-radius: 14px; box-shadow: 0 2px 9px rgba(205,180,70,0.09); min-height: 48px; /* approx height 3 units */  width: 100%; /* will fill most containers; adjust as needed for 35 units */  max-width: 980px; margin: 26px auto 0 auto; display: flex; align-items: center; justify-content: center; font-family: 'Segoe UI', 'Arial', sans-serif;\"&gt;&lt;span style=\"font-size: 1.6rem; color: #21273c; font-weight: 600; letter-spacing: 0.5px; display: flex; align-items: center; gap: 14px;\"&gt; Order premium your mobile &lt;span style=\"display: inline-block; font-size: 1.8rem; color: #21273c; font-weight: 800; padding-left: 6px;\"&gt;&amp;rarr;&lt;/span&gt; &lt;/span&gt;&lt;/div&gt;","noDebounce":true,"propLabel":"HTML"}</component_props>
+        <h>3</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-20 14:27:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>20494344477cbe100f4a1ce4316d4332</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Mobile Request Management" source="x_888083_mobile_re">031bb39483003210a4f252e0deaad3f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</sys_scope>
+        <sys_update_name>par_dashboard_widget_20494344477cbe100f4a1ce4316d4332</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-20 14:30:25</sys_updated_on>
+        <visualization/>
+        <w>30</w>
+        <widget_props/>
+        <x>0</x>
+        <y>13</y>
+    </par_dashboard_widget>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-20 12:23:05</sys_created_on>
+        <sys_id>ddcce24047f8be100f4a1ce4316d43ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.888083.mobile-request-management1.*.x_888083_mobile_re.user</sys_name>
+        <sys_package display_value="Mobile Request Management" source="x_888083_mobile_re">031bb39483003210a4f252e0deaad3f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</sys_scope>
+        <sys_security_acl display_value="x.888083.mobile-request-management1.*">94cca240d4f8be10bd5cdab273b0e16e</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ddcce24047f8be100f4a1ce4316d43ea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-20 12:23:05</sys_updated_on>
+        <sys_user_role display_value="x_888083_mobile_re.user" name="x_888083_mobile_re.user">365dff1883003210a4f252e0deaad317</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

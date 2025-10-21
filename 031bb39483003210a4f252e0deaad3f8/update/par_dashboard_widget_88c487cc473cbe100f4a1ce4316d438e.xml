@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">aacca64047f8be100f4a1ce4316d4342</canvas>
+        <component display_value="Rich text">2d56f06d55f46bbd4e79b5e624beb940</component>
+        <component_props>{"html":"&lt;p&gt;&lt;a style=\"display: inline-block; background: linear-gradient(120deg, #cdb446 0%, #ffeab7 100%); color: #21273c; font-weight: bold; font-size: 1.08rem; text-decoration: none; padding: 10px 32px; border-radius: 7px; min-width: 148px; box-shadow: 0 2px 10px rgba(205,180,70,0.11); border: 1px solid #cdb446; transition: background 0.28s, box-shadow 0.22s; text-align: center;\" href=\"https://dev301722.service-now.com/now/nav/ui/classic/params/target/com.glideapp.servicecatalog_cat_item_view.do%3Fv%3D1%26sysparm_id%3D0e47ab748304b210a4f252e0deaad315%26sysparm_link_parent%3Dc3d3e02b0a0a0b12005063c7b2fa4f93%26sysparm_catalog%3De0d08b13c3330100c8b837659bba8fb4%26sysparm_catalog_view%3Dcatalog_default%26sysparm_view%3Dcatalog_default\" target=\"_blank\" rel=\"noopener\"&gt; Order Mobile &lt;/a&gt;&lt;/p&gt;","id":"html","value":"&lt;p&gt;&lt;a style=\"display: inline-block; background: linear-gradient(120deg, #cdb446 0%, #ffeab7 100%); color: #21273c; font-weight: bold; font-size: 1.08rem; text-decoration: none; padding: 10px 32px; border-radius: 7px; min-width: 148px; box-shadow: 0 2px 10px rgba(205,180,70,0.11); border: 1px solid #cdb446; transition: background 0.28s, box-shadow 0.22s; text-align: center;\" href=\"https://dev301722.service-now.com/now/nav/ui/classic/params/target/com.glideapp.servicecatalog_cat_item_view.do%3Fv%3D1%26sysparm_id%3D0e47ab748304b210a4f252e0deaad315%26sysparm_link_parent%3Dc3d3e02b0a0a0b12005063c7b2fa4f93%26sysparm_catalog%3De0d08b13c3330100c8b837659bba8fb4%26sysparm_catalog_view%3Dcatalog_default%26sysparm_view%3Dcatalog_default\" target=\"_blank\" rel=\"noopener\"&gt; Order Mobile &lt;/a&gt;&lt;/p&gt;","noDebounce":true,"propLabel":"HTML"}</component_props>
+        <h>3</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-20 14:07:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>88c487cc473cbe100f4a1ce4316d438e</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Mobile Request Management" source="x_888083_mobile_re">031bb39483003210a4f252e0deaad3f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</sys_scope>
+        <sys_update_name>par_dashboard_widget_88c487cc473cbe100f4a1ce4316d438e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-20 14:30:25</sys_updated_on>
+        <visualization/>
+        <w>10</w>
+        <widget_props/>
+        <x>33</x>
+        <y>13</y>
+    </par_dashboard_widget>
+</record_update>

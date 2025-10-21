@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="x_888083_mobile_re_mobile_request_management1_search_profile_default_spell_check_dictionary">adcc264047f8be100f4a1ce4316d4331</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="mobile-request-management1 Search Profile">90cca240bbf8be10f7a6fecaa43da076</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-20 12:23:05</sys_created_on>
+        <sys_id>65cc264047f8be100f4a1ce4316d4335</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_888083_mobile_re_mobile_request_management1_search_profile_default_spell_check_dictionary.mobile-request-management1 Search Profile</sys_name>
+        <sys_package display_value="Mobile Request Management" source="x_888083_mobile_re">031bb39483003210a4f252e0deaad3f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_65cc264047f8be100f4a1ce4316d4335</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-20 12:23:05</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

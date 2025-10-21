@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Order Your Mobile">0e47ab748304b210a4f252e0deaad315</sc_cat_item>
+        <sc_category display_value="Mobiles">d68eb4d637b1300054b6a3549dbe5db2</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-19 16:54:02</sys_created_on>
+        <sys_id>783162bb47e47e100f4a1ce4316d43a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mobiles.Order Your Mobile</sys_name>
+        <sys_package display_value="Mobile Request Management" source="x_888083_mobile_re">031bb39483003210a4f252e0deaad3f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</sys_scope>
+        <sys_update_name>sc_cat_item_category_783162bb47e47e100f4a1ce4316d43a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-19 16:54:02</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</application>
+        <file_path/>
+        <instance_id>6e5bb3ee3b186e9cbaf6048aa4e45a6c</instance_id>
+        <instance_name>dev301722</instance_name>
+        <name>sc_cat_item_category_783162bb47e47e100f4a1ce4316d43a3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Order Your Mobile">0e47ab748304b210a4f252e0deaad315</sc_cat_item><sc_category display_value="Mobiles">d68eb4d637b1300054b6a3549dbe5db2</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-19 16:54:02</sys_created_on><sys_id>783162bb47e47e100f4a1ce4316d43a3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Mobiles.Order Your Mobile</sys_name><sys_package display_value="Mobile Request Management" source="x_888083_mobile_re">031bb39483003210a4f252e0deaad3f8</sys_package><sys_policy/><sys_scope display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</sys_scope><sys_update_name>sc_cat_item_category_783162bb47e47e100f4a1ce4316d43a3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-19 16:54:02</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-236762600</payload_hash>
+        <record_name>Mobiles.Order Your Mobile</record_name>
+        <reverted_from/>
+        <source>20fa927347a07e100f4a1ce4316d4315</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-19 16:54:02</sys_created_on>
+        <sys_id>f43162bb47e47e100f4a1ce4316d43a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>199fd6473b70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-19 16:54:02</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>383162bbbce47e105f3a23377510bca7</update_guid>
+        <update_guid_history>383162bbbce47e105f3a23377510bca7:-236762600</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Mobiles.Order Your Mobile">d7c16ebb47e47e100f4a1ce4316d4336</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-19 16:56:41</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>35a37efd6a394f20b8ac78d7219e3f49</sys_id>
+        <sys_metadata>783162bb47e47e100f4a1ce4316d43a3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mobiles.Order Your Mobile</sys_name>
+        <sys_package display_value="Mobile Request Management" source="x_888083_mobile_re">031bb39483003210a4f252e0deaad3f8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</sys_scope>
+        <sys_scope_delete display_value="">6012e3eb19c544aa8fbcea5891b35a44</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_783162bb47e47e100f4a1ce4316d43a3</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_783162bb47e47e100f4a1ce4316d43a3">f43162bb47e47e100f4a1ce4316d43a8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-19 16:56:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">aacca64047f8be100f4a1ce4316d4342</canvas>
+        <component display_value="Heading">1f6e0643eca7a637e36bd7833549ec9e</component>
+        <component_props>{"variant":"header-primary","label":"We make work, work better for people with modern digital workflows","wontWrap":false,"hasNoMargin":false,"level":"1"}</component_props>
+        <h>13</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-20 13:50:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0de04788473cbe100f4a1ce4316d4371</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Mobile Request Management" source="x_888083_mobile_re">031bb39483003210a4f252e0deaad3f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</sys_scope>
+        <sys_update_name>par_dashboard_widget_0de04788473cbe100f4a1ce4316d4371</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-20 13:51:31</sys_updated_on>
+        <visualization/>
+        <w>27</w>
+        <widget_props/>
+        <x>13</x>
+        <y>0</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</application>
+        <file_path/>
+        <instance_id>6e5bb3ee3b186e9cbaf6048aa4e45a6c</instance_id>
+        <instance_name>dev301722</instance_name>
+        <name>par_dashboard_widget_0de04788473cbe100f4a1ce4316d4371</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">aacca64047f8be100f4a1ce4316d4342</canvas><component display_value="Heading">1f6e0643eca7a637e36bd7833549ec9e</component><component_props>{"variant":"header-primary","label":"We make work, work better for people with modern digital workflows","wontWrap":false,"hasNoMargin":false,"level":"1"}</component_props><h>13</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-20 13:50:59</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0de04788473cbe100f4a1ce4316d4371</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Mobile Request Management" source="x_888083_mobile_re">031bb39483003210a4f252e0deaad3f8</sys_package><sys_policy/><sys_scope display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</sys_scope><sys_update_name>par_dashboard_widget_0de04788473cbe100f4a1ce4316d4371</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-20 13:51:31</sys_updated_on><visualization/><w>27</w><widget_props/><x>13</x><y>0</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>1623671023</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>20fa927347a07e100f4a1ce4316d4315</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-20 13:51:31</sys_created_on>
+        <sys_id>bc010f88473cbe100f4a1ce4316d438d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19a01e3b5370000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-20 13:51:31</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>70014788fd3cbe109ab0c0ea59d88c50</update_guid>
+        <update_guid_history>70014788fd3cbe109ab0c0ea59d88c50:1623671023,c5e04788a03cbe10c9f86a3f81b39173:1469844722</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">7ca10bc8473cbe100f4a1ce4316d434f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-20 13:54:14</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>7283411c67834c98833b28624b29fd90</sys_id>
+        <sys_metadata>0de04788473cbe100f4a1ce4316d4371</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Mobile Request Management" source="x_888083_mobile_re">031bb39483003210a4f252e0deaad3f8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</sys_scope>
+        <sys_scope_delete display_value="">6012e3eb19c544aa8fbcea5891b35a44</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_0de04788473cbe100f4a1ce4316d4371</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_0de04788473cbe100f4a1ce4316d4371">bc010f88473cbe100f4a1ce4316d438d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-20 13:54:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

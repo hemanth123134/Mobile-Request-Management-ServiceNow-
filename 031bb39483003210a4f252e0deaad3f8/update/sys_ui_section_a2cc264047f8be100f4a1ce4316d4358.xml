@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="a2cc264047f8be100f4a1ce4316d4358" sys_domain="global" table="x_888083_mobile_re_mobile_devices" version="3" view="workspace-mobile-request-management-1">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-20 12:23:09</sys_created_on>
+            <sys_id>22cca64047f8be100f4a1ce4316d4304</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_devices" sys_domain="global" view="10cca240fbf8be10eaa1d5d3f74cfc6e">a2cc264047f8be100f4a1ce4316d4358</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-20 12:23:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>manufacturer</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-20 12:23:09</sys_created_on>
+            <sys_id>2acca64047f8be100f4a1ce4316d4302</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_devices" sys_domain="global" view="10cca240fbf8be10eaa1d5d3f74cfc6e">a2cc264047f8be100f4a1ce4316d4358</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-20 12:23:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_2</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-20 12:23:09</sys_created_on>
+            <sys_id>22cca64047f8be100f4a1ce4316d4301</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_devices" sys_domain="global" view="10cca240fbf8be10eaa1d5d3f74cfc6e">a2cc264047f8be100f4a1ce4316d4358</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-20 12:23:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-20 12:23:09</sys_created_on>
+            <sys_id>22cca64047f8be100f4a1ce4316d4303</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_devices" sys_domain="global" view="10cca240fbf8be10eaa1d5d3f74cfc6e">a2cc264047f8be100f4a1ce4316d4358</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-20 12:23:09</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>model_number</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-20 12:23:09</sys_created_on>
+            <sys_id>2acca64047f8be100f4a1ce4316d4301</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_devices" sys_domain="global" view="10cca240fbf8be10eaa1d5d3f74cfc6e">a2cc264047f8be100f4a1ce4316d4358</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-20 12:23:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>owned_by</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-20 12:23:09</sys_created_on>
+            <sys_id>2acca64047f8be100f4a1ce4316d4303</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_devices" sys_domain="global" view="10cca240fbf8be10eaa1d5d3f74cfc6e">a2cc264047f8be100f4a1ce4316d4358</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-20 12:23:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cost</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-20 12:23:09</sys_created_on>
+            <sys_id>22cca64047f8be100f4a1ce4316d4302</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_devices" sys_domain="global" view="10cca240fbf8be10eaa1d5d3f74cfc6e">a2cc264047f8be100f4a1ce4316d4358</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-20 12:23:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>true</header>
+            <name>x_888083_mobile_re_mobile_devices</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-20 12:23:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a2cc264047f8be100f4a1ce4316d4358</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_888083_mobile_re_mobile_devices</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Mobile Request Management" source="x_888083_mobile_re">031bb39483003210a4f252e0deaad3f8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</sys_scope>
+            <sys_update_name>sys_ui_section_a2cc264047f8be100f4a1ce4316d4358</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-20 12:23:09</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace Mobile Request Management 1" name="workspace-mobile-request-management-1">10cca240fbf8be10eaa1d5d3f74cfc6e</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

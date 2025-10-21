@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-16 18:24:29</sys_created_on>
-            <sys_id>ef69f411834cf210a4f252e0deaad389</sys_id>
+            <sys_created_on>2025-10-21 17:27:49</sys_created_on>
+            <sys_id>471c7824473832500f4a1ce4316d43fd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_requests" sys_domain="global" view="Default view">fe0d34a083443210a4f252e0deaad30a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-16 18:24:29</sys_updated_on>
+            <sys_updated_on>2025-10-21 17:27:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>u_reference_1</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-16 18:24:29</sys_created_on>
-            <sys_id>2f69f411834cf210a4f252e0deaad38a</sys_id>
+            <sys_created_on>2025-10-21 17:27:49</sys_created_on>
+            <sys_id>831c7824473832500f4a1ce4316d43fe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_requests" sys_domain="global" view="Default view">fe0d34a083443210a4f252e0deaad30a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-16 18:24:29</sys_updated_on>
+            <sys_updated_on>2025-10-21 17:27:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>u_reference_3</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-16 18:24:29</sys_created_on>
-            <sys_id>2769f411834cf210a4f252e0deaad38b</sys_id>
+            <sys_created_on>2025-10-21 17:27:49</sys_created_on>
+            <sys_id>8b1c7824473832500f4a1ce4316d43fe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_requests" sys_domain="global" view="Default view">fe0d34a083443210a4f252e0deaad30a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-16 18:24:29</sys_updated_on>
+            <sys_updated_on>2025-10-21 17:27:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>u_choice_2</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-16 18:24:29</sys_created_on>
-            <sys_id>2f69f411834cf210a4f252e0deaad38b</sys_id>
+            <sys_created_on>2025-10-21 17:27:49</sys_created_on>
+            <sys_id>831c7824473832500f4a1ce4316d43ff</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_requests" sys_domain="global" view="Default view">fe0d34a083443210a4f252e0deaad30a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-16 18:24:29</sys_updated_on>
+            <sys_updated_on>2025-10-21 17:27:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>total_cost</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-16 18:24:29</sys_created_on>
-            <sys_id>3769f411834cf210a4f252e0deaad38c</sys_id>
+            <sys_created_on>2025-10-21 17:27:49</sys_created_on>
+            <sys_id>8b1c7824473832500f4a1ce4316d43ff</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_requests" sys_domain="global" view="Default view">fe0d34a083443210a4f252e0deaad30a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-16 18:24:29</sys_updated_on>
+            <sys_updated_on>2025-10-21 17:27:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>.split</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-16 18:24:29</sys_created_on>
-            <sys_id>3f69f411834cf210a4f252e0deaad38c</sys_id>
+            <sys_created_on>2025-10-21 17:27:49</sys_created_on>
+            <sys_id>831cb824473832500f4a1ce4316d4300</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_requests" sys_domain="global" view="Default view">fe0d34a083443210a4f252e0deaad30a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-16 18:24:29</sys_updated_on>
+            <sys_updated_on>2025-10-21 17:27:49</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>u_reference_2</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-16 18:24:29</sys_created_on>
-            <sys_id>3769f411834cf210a4f252e0deaad38d</sys_id>
+            <sys_created_on>2025-10-21 17:27:49</sys_created_on>
+            <sys_id>8b1cb824473832500f4a1ce4316d4300</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_requests" sys_domain="global" view="Default view">fe0d34a083443210a4f252e0deaad30a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-16 18:24:29</sys_updated_on>
+            <sys_updated_on>2025-10-21 17:27:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>u_string_3</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-16 18:24:29</sys_created_on>
-            <sys_id>3f69f411834cf210a4f252e0deaad38d</sys_id>
+            <sys_created_on>2025-10-21 17:27:49</sys_created_on>
+            <sys_id>831cb824473832500f4a1ce4316d4301</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_requests" sys_domain="global" view="Default view">fe0d34a083443210a4f252e0deaad30a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-16 18:24:29</sys_updated_on>
+            <sys_updated_on>2025-10-21 17:27:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>u_choice_1</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-16 18:24:29</sys_created_on>
-            <sys_id>3769f411834cf210a4f252e0deaad38e</sys_id>
+            <sys_created_on>2025-10-21 17:27:49</sys_created_on>
+            <sys_id>8b1cb824473832500f4a1ce4316d4301</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_requests" sys_domain="global" view="Default view">fe0d34a083443210a4f252e0deaad30a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-16 18:24:29</sys_updated_on>
+            <sys_updated_on>2025-10-21 17:27:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -130,13 +130,13 @@
             <element>u_glide_date_4</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-16 18:24:29</sys_created_on>
-            <sys_id>3f69f411834cf210a4f252e0deaad38e</sys_id>
+            <sys_created_on>2025-10-21 17:27:49</sys_created_on>
+            <sys_id>831cb824473832500f4a1ce4316d4302</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_requests" sys_domain="global" view="Default view">fe0d34a083443210a4f252e0deaad30a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-16 18:24:29</sys_updated_on>
+            <sys_updated_on>2025-10-21 17:27:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -144,13 +144,13 @@
             <element>.end_split</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-16 18:24:29</sys_created_on>
-            <sys_id>3769f411834cf210a4f252e0deaad38f</sys_id>
+            <sys_created_on>2025-10-21 17:27:49</sys_created_on>
+            <sys_id>8b1cb824473832500f4a1ce4316d4302</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_requests" sys_domain="global" view="Default view">fe0d34a083443210a4f252e0deaad30a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-16 18:24:29</sys_updated_on>
+            <sys_updated_on>2025-10-21 17:27:49</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -158,13 +158,27 @@
             <element>description</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-16 18:24:29</sys_created_on>
-            <sys_id>3f69f411834cf210a4f252e0deaad38f</sys_id>
+            <sys_created_on>2025-10-21 17:27:49</sys_created_on>
+            <sys_id>831cb824473832500f4a1ce4316d4303</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_requests" sys_domain="global" view="Default view">fe0d34a083443210a4f252e0deaad30a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-16 18:24:29</sys_updated_on>
+            <sys_updated_on>2025-10-21 17:27:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-21 17:27:49</sys_created_on>
+            <sys_id>8b1cb824473832500f4a1ce4316d4303</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_888083_mobile_re_mobile_requests" sys_domain="global" view="Default view">fe0d34a083443210a4f252e0deaad30a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-21 17:27:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

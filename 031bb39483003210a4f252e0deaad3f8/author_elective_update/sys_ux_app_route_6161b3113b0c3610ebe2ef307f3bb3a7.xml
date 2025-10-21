@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="Mobile Request Management App Config">ed61b311e10c3610a6848e5cfddad6ae</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Home</name>
+        <optional_parameters>sysId,edit</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>home</route_type>
+        <screen_type display_value="Home">a961b311bb0c361072b4efa5726b77a7</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-17 07:48:15</sys_created_on>
+        <sys_id>6161b3113b0c3610ebe2ef307f3bb3a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home</sys_name>
+        <sys_package display_value="Mobile Request Management" source="x_888083_mobile_re">031bb39483003210a4f252e0deaad3f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</sys_scope>
+        <sys_update_name>sys_ux_app_route_6161b3113b0c3610ebe2ef307f3bb3a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-17 07:48:15</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="DELETE" query="documentkey=6161b3113b0c3610ebe2ef307f3bb3a7"/>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</application>
+        <file_path/>
+        <instance_id>6e5bb3ee3b186e9cbaf6048aa4e45a6c</instance_id>
+        <instance_name>dev301722</instance_name>
+        <name>sys_ux_app_route_6161b3113b0c3610ebe2ef307f3bb3a7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Mobile Request Management App Config">ed61b311e10c3610a6848e5cfddad6ae</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Home</name>
+        <optional_parameters>sysId,edit</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>home</route_type>
+        <screen_type display_value="Home">a961b311bb0c361072b4efa5726b77a7</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-17 07:48:15</sys_created_on>
+        <sys_id>6161b3113b0c3610ebe2ef307f3bb3a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home</sys_name>
+        <sys_package display_value="Mobile Request Management" source="x_888083_mobile_re">031bb39483003210a4f252e0deaad3f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</sys_scope>
+        <sys_update_name>sys_ux_app_route_6161b3113b0c3610ebe2ef307f3bb3a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-17 07:48:15</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=6161b3113b0c3610ebe2ef307f3bb3a7"/>
+</record_update>]]></payload>
+        <payload_hash>-1471874557</payload_hash>
+        <record_name>Home</record_name>
+        <reverted_from/>
+        <source>91ca9e7f47a47e100f4a1ce4316d4330</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-19 16:26:23</sys_created_on>
+        <sys_id>2bda9ebf47a47e100f4a1ce4316d43df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>199fd4b20420000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-19 16:26:23</sys_updated_on>
+        <type>UX App Route</type>
+        <update_guid>e7da9ebf89a47e1024d6fc9e17f225df</update_guid>
+        <update_guid_history>e7da9ebf89a47e1024d6fc9e17f225df:-1471874557</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-20 07:53:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>72bc18f232a442d094ee02885e653390</sys_id>
+        <sys_metadata>6161b3113b0c3610ebe2ef307f3bb3a7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home</sys_name>
+        <sys_package display_value="Mobile Request Management" source="x_888083_mobile_re">031bb39483003210a4f252e0deaad3f8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</sys_scope>
+        <sys_scope_delete display_value="">6012e3eb19c544aa8fbcea5891b35a44</sys_scope_delete>
+        <sys_update_name>sys_ux_app_route_6161b3113b0c3610ebe2ef307f3bb3a7</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_6161b3113b0c3610ebe2ef307f3bb3a7">2bda9ebf47a47e100f4a1ce4316d43df</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-20 07:53:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

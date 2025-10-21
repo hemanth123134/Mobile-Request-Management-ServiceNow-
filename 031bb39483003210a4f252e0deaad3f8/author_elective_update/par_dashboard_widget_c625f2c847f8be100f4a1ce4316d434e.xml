@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">aacca64047f8be100f4a1ce4316d4342</canvas>
+        <component display_value="Rich text">2d56f06d55f46bbd4e79b5e624beb940</component>
+        <component_props>{"html":"&lt;div style=\"display: flex; flex-direction: column; justify-content: center; height: 100%; padding: 20px;\"&gt;\n&lt;h1 style=\"font-size: 36px; font-weight: bold; color: #1a1a1a; margin-bottom: 12px; line-height: 1.2;\"&gt;Mobile Request Management&lt;/h1&gt;\n&lt;p style=\"font-size: 18px; color: #333333; margin-bottom: 18px; line-height: 1.5;\"&gt;Streamline mobile service requests and manage tasks efficiently with modern digital workflows.&lt;/p&gt;\n&lt;a style=\"display: inline-block; padding: 12px 24px; background-color: #0072c6; color: white; text-decoration: none; border-radius: 6px; font-weight: 600; transition: background 0.3s ease;\" href=\"#\"&gt; Get Started &lt;/a&gt;&lt;/div&gt;","id":"html","value":"&lt;div style=\"display: flex; flex-direction: column; justify-content: center; height: 100%; padding: 20px;\"&gt;\n&lt;h1 style=\"font-size: 36px; font-weight: bold; color: #1a1a1a; margin-bottom: 12px; line-height: 1.2;\"&gt;Mobile Request Management&lt;/h1&gt;\n&lt;p style=\"font-size: 18px; color: #333333; margin-bottom: 18px; line-height: 1.5;\"&gt;Streamline mobile service requests and manage tasks efficiently with modern digital workflows.&lt;/p&gt;\n&lt;a style=\"display: inline-block; padding: 12px 24px; background-color: #0072c6; color: white; text-decoration: none; border-radius: 6px; font-weight: 600; transition: background 0.3s ease;\" href=\"#\"&gt; Get Started &lt;/a&gt;&lt;/div&gt;","noDebounce":true,"propLabel":"HTML"}</component_props>
+        <h>13</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-20 12:59:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c625f2c847f8be100f4a1ce4316d434e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Mobile Request Management" source="x_888083_mobile_re">031bb39483003210a4f252e0deaad3f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</sys_scope>
+        <sys_update_name>par_dashboard_widget_c625f2c847f8be100f4a1ce4316d434e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-20 12:59:43</sys_updated_on>
+        <visualization/>
+        <w>13</w>
+        <widget_props/>
+        <x>13</x>
+        <y>0</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</application>
+        <file_path/>
+        <instance_id>6e5bb3ee3b186e9cbaf6048aa4e45a6c</instance_id>
+        <instance_name>dev301722</instance_name>
+        <name>par_dashboard_widget_c625f2c847f8be100f4a1ce4316d434e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">aacca64047f8be100f4a1ce4316d4342</canvas><component display_value="Rich text">2d56f06d55f46bbd4e79b5e624beb940</component><component_props>{"html":"&lt;div style=\"display: flex; flex-direction: column; justify-content: center; height: 100%; padding: 20px;\"&gt;\n&lt;h1 style=\"font-size: 36px; font-weight: bold; color: #1a1a1a; margin-bottom: 12px; line-height: 1.2;\"&gt;Mobile Request Management&lt;/h1&gt;\n&lt;p style=\"font-size: 18px; color: #333333; margin-bottom: 18px; line-height: 1.5;\"&gt;Streamline mobile service requests and manage tasks efficiently with modern digital workflows.&lt;/p&gt;\n&lt;a style=\"display: inline-block; padding: 12px 24px; background-color: #0072c6; color: white; text-decoration: none; border-radius: 6px; font-weight: 600; transition: background 0.3s ease;\" href=\"#\"&gt; Get Started &lt;/a&gt;&lt;/div&gt;","id":"html","value":"&lt;div style=\"display: flex; flex-direction: column; justify-content: center; height: 100%; padding: 20px;\"&gt;\n&lt;h1 style=\"font-size: 36px; font-weight: bold; color: #1a1a1a; margin-bottom: 12px; line-height: 1.2;\"&gt;Mobile Request Management&lt;/h1&gt;\n&lt;p style=\"font-size: 18px; color: #333333; margin-bottom: 18px; line-height: 1.5;\"&gt;Streamline mobile service requests and manage tasks efficiently with modern digital workflows.&lt;/p&gt;\n&lt;a style=\"display: inline-block; padding: 12px 24px; background-color: #0072c6; color: white; text-decoration: none; border-radius: 6px; font-weight: 600; transition: background 0.3s ease;\" href=\"#\"&gt; Get Started &lt;/a&gt;&lt;/div&gt;","noDebounce":true,"propLabel":"HTML"}</component_props><h>13</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-20 12:59:43</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c625f2c847f8be100f4a1ce4316d434e</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Mobile Request Management" source="x_888083_mobile_re">031bb39483003210a4f252e0deaad3f8</sys_package><sys_policy/><sys_scope display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</sys_scope><sys_update_name>par_dashboard_widget_c625f2c847f8be100f4a1ce4316d434e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-20 12:59:43</sys_updated_on><visualization/><w>13</w><widget_props/><x>13</x><y>0</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-1672888096</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>20fa927347a07e100f4a1ce4316d4315</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-20 12:59:43</sys_created_on>
+        <sys_id>4625f2c847f8be100f4a1ce4316d4350</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19a01b446e30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-20 12:59:43</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>4a25f2c8e6f8be10ec8491391de78f4f</update_guid>
+        <update_guid_history>4a25f2c8e6f8be10ec8491391de78f4f:-1672888096</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">c5993640473cbe100f4a1ce4316d4371</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-20 13:19:02</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>0a6c17b0c3a746b0b65a237d37d2a100</sys_id>
+        <sys_metadata>c625f2c847f8be100f4a1ce4316d434e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Mobile Request Management" source="x_888083_mobile_re">031bb39483003210a4f252e0deaad3f8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</sys_scope>
+        <sys_scope_delete display_value="">6012e3eb19c544aa8fbcea5891b35a44</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_c625f2c847f8be100f4a1ce4316d434e</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_c625f2c847f8be100f4a1ce4316d434e">4625f2c847f8be100f4a1ce4316d4350</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-20 13:19:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

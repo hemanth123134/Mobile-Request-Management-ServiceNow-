@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="Mobile Request Management">54cca2404df8be10b4d6e9894c520d76</page>
+        <required_translations>[ {
+  "message" : "New mobile devices",
+  "comment" : ""
+}, {
+  "message" : "New mobile requests",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-20 12:23:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>1ccca240d6f8be10e3f167b303396368</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="Mobile Request Management" source="x_888083_mobile_re">031bb39483003210a4f252e0deaad3f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</sys_scope>
+        <sys_update_name>sys_ux_page_property_1ccca240d6f8be10e3f167b303396368</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-20 12:23:05</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_888083_mobile_re.54cca2404df8be10b4d6e9894c520d76.root.global.chrome_tab</unique_name>
+        <value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New mobile requests"},"routeInfo":{"route":"record","fields":{"table":"x_888083_mobile_re_mobile_requests","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_888083_mobile_re_mobile_requests","canCreate":true}}},{"label":{"translatable":true,"message":"New mobile devices"},"routeInfo":{"route":"record","fields":{"table":"x_888083_mobile_re_mobile_devices","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_888083_mobile_re_mobile_devices","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=1ccca240d6f8be10e3f167b303396368"/>
+</record_update>

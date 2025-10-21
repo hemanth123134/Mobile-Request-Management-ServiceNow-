@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">aacca64047f8be100f4a1ce4316d4342</canvas>
+        <component display_value="Rich text">2d56f06d55f46bbd4e79b5e624beb940</component>
+        <component_props>{"html":"&lt;div style=\"background: linear-gradient(120deg, #cdb446 0%, #ffeab7 100%); border-radius: 14px; box-shadow: 0 2px 9px rgba(205,180,70,0.09); min-height: 48px; /* approx height 3 units */  width: 100%; /* will fill most containers; adjust as needed for 35 units */  max-width: 980px; margin: 26px auto 0 auto; display: flex; align-items: center; justify-content: center; font-family: 'Segoe UI', 'Arial', sans-serif;\"&gt;&lt;span style=\"font-size: 1.6rem; color: #21273c; font-weight: 600; letter-spacing: 0.5px; display: flex; align-items: center; gap: 14px;\"&gt; Order premium your mobile &lt;span style=\"display: inline-block; font-size: 1.8rem; color: #21273c; font-weight: 800; padding-left: 6px;\"&gt;&amp;rarr;&lt;/span&gt; &lt;/span&gt;&lt;/div&gt;","id":"html","value":"&lt;div style=\"background: linear-gradient(120deg, #cdb446 0%, #ffeab7 100%); border-radius: 14px; box-shadow: 0 2px 9px rgba(205,180,70,0.09); min-height: 48px; /* approx height 3 units */  width: 100%; /* will fill most containers; adjust as needed for 35 units */  max-width: 980px; margin: 26px auto 0 auto; display: flex; align-items: center; justify-content: center; font-family: 'Segoe UI', 'Arial', sans-serif;\"&gt;&lt;span style=\"font-size: 1.6rem; color: #21273c; font-weight: 600; letter-spacing: 0.5px; display: flex; align-items: center; gap: 14px;\"&gt; Order premium your mobile &lt;span style=\"display: inline-block; font-size: 1.8rem; color: #21273c; font-weight: 800; padding-left: 6px;\"&gt;&amp;rarr;&lt;/span&gt; &lt;/span&gt;&lt;/div&gt;","noDebounce":true,"propLabel":"HTML"}</component_props>
+        <h>3</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-20 14:17:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7fe64380477cbe100f4a1ce4316d4318</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Mobile Request Management" source="x_888083_mobile_re">031bb39483003210a4f252e0deaad3f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</sys_scope>
+        <sys_update_name>par_dashboard_widget_7fe64380477cbe100f4a1ce4316d4318</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-20 14:20:58</sys_updated_on>
+        <visualization/>
+        <w>35</w>
+        <widget_props/>
+        <x>0</x>
+        <y>13</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</application>
+        <file_path/>
+        <instance_id>6e5bb3ee3b186e9cbaf6048aa4e45a6c</instance_id>
+        <instance_name>dev301722</instance_name>
+        <name>par_dashboard_widget_7fe64380477cbe100f4a1ce4316d4318</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">aacca64047f8be100f4a1ce4316d4342</canvas><component display_value="Rich text">2d56f06d55f46bbd4e79b5e624beb940</component><component_props>{"html":"&lt;div style=\"background: linear-gradient(120deg, #cdb446 0%, #ffeab7 100%); border-radius: 14px; box-shadow: 0 2px 9px rgba(205,180,70,0.09); min-height: 48px; /* approx height 3 units */  width: 100%; /* will fill most containers; adjust as needed for 35 units */  max-width: 980px; margin: 26px auto 0 auto; display: flex; align-items: center; justify-content: center; font-family: 'Segoe UI', 'Arial', sans-serif;\"&gt;&lt;span style=\"font-size: 1.6rem; color: #21273c; font-weight: 600; letter-spacing: 0.5px; display: flex; align-items: center; gap: 14px;\"&gt; Order premium your mobile &lt;span style=\"display: inline-block; font-size: 1.8rem; color: #21273c; font-weight: 800; padding-left: 6px;\"&gt;&amp;rarr;&lt;/span&gt; &lt;/span&gt;&lt;/div&gt;","id":"html","value":"&lt;div style=\"background: linear-gradient(120deg, #cdb446 0%, #ffeab7 100%); border-radius: 14px; box-shadow: 0 2px 9px rgba(205,180,70,0.09); min-height: 48px; /* approx height 3 units */  width: 100%; /* will fill most containers; adjust as needed for 35 units */  max-width: 980px; margin: 26px auto 0 auto; display: flex; align-items: center; justify-content: center; font-family: 'Segoe UI', 'Arial', sans-serif;\"&gt;&lt;span style=\"font-size: 1.6rem; color: #21273c; font-weight: 600; letter-spacing: 0.5px; display: flex; align-items: center; gap: 14px;\"&gt; Order premium your mobile &lt;span style=\"display: inline-block; font-size: 1.8rem; color: #21273c; font-weight: 800; padding-left: 6px;\"&gt;&amp;rarr;&lt;/span&gt; &lt;/span&gt;&lt;/div&gt;","noDebounce":true,"propLabel":"HTML"}</component_props><h>3</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-20 14:17:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7fe64380477cbe100f4a1ce4316d4318</sys_id><sys_mod_count>2</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Mobile Request Management" source="x_888083_mobile_re">031bb39483003210a4f252e0deaad3f8</sys_package><sys_policy/><sys_scope display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</sys_scope><sys_update_name>par_dashboard_widget_7fe64380477cbe100f4a1ce4316d4318</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-20 14:20:58</sys_updated_on><visualization/><w>35</w><widget_props/><x>0</x><y>13</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-1361026507</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>20fa927347a07e100f4a1ce4316d4315</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-20 14:20:58</sys_created_on>
+        <sys_id>dcc743c0477cbe100f4a1ce4316d437d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19a01feab8c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-20 14:20:58</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>54c743c0db7cbe10714ddbcecff5187d</update_guid>
+        <update_guid_history>54c743c0db7cbe10714ddbcecff5187d:-1361026507,de078700da7cbe107b174f37db507120:-490336705,ffe643808d7cbe10b5d0480b286c8c19:1682876264</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">53388fc0477cbe100f4a1ce4316d4301</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-20 14:23:05</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>86736ffbc65d4590bea495d9972aa5d9</sys_id>
+        <sys_metadata>7fe64380477cbe100f4a1ce4316d4318</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Mobile Request Management" source="x_888083_mobile_re">031bb39483003210a4f252e0deaad3f8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</sys_scope>
+        <sys_scope_delete display_value="">6012e3eb19c544aa8fbcea5891b35a44</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_7fe64380477cbe100f4a1ce4316d4318</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_7fe64380477cbe100f4a1ce4316d4318">dcc743c0477cbe100f4a1ce4316d437d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-20 14:23:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

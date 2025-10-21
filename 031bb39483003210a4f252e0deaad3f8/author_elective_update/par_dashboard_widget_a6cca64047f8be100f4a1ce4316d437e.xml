@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">aacca64047f8be100f4a1ce4316d4342</canvas>
+        <component display_value="Heading">1f6e0643eca7a637e36bd7833549ec9e</component>
+        <component_props>{"variant":"header-hero","label":"Happening Now","wontWrap":false,"hasNoMargin":false,"level":"2","filterConfigurations":[],"noDebounce":"","contextMenuActions":[],"id":"level","value":"2","propLabel":"Level"}</component_props>
+        <h>3</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-20 12:23:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a6cca64047f8be100f4a1ce4316d437e</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Mobile Request Management" source="x_888083_mobile_re">031bb39483003210a4f252e0deaad3f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</sys_scope>
+        <sys_update_name>par_dashboard_widget_a6cca64047f8be100f4a1ce4316d437e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-20 13:35:38</sys_updated_on>
+        <visualization/>
+        <w>10</w>
+        <widget_props/>
+        <x>0</x>
+        <y>16</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</application>
+        <file_path/>
+        <instance_id>6e5bb3ee3b186e9cbaf6048aa4e45a6c</instance_id>
+        <instance_name>dev301722</instance_name>
+        <name>par_dashboard_widget_a6cca64047f8be100f4a1ce4316d437e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">aacca64047f8be100f4a1ce4316d4342</canvas><component display_value="Heading">1f6e0643eca7a637e36bd7833549ec9e</component><component_props>{"variant":"header-hero","label":"Happening Now","wontWrap":false,"hasNoMargin":false,"level":"2","filterConfigurations":[],"noDebounce":"","contextMenuActions":[],"id":"level","value":"2","propLabel":"Level"}</component_props><h>3</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-20 12:23:10</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a6cca64047f8be100f4a1ce4316d437e</sys_id><sys_mod_count>4</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Mobile Request Management" source="x_888083_mobile_re">031bb39483003210a4f252e0deaad3f8</sys_package><sys_policy/><sys_scope display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</sys_scope><sys_update_name>par_dashboard_widget_a6cca64047f8be100f4a1ce4316d437e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-20 13:35:38</sys_updated_on><visualization/><w>10</w><widget_props/><x>0</x><y>16</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>403206136</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>20fa927347a07e100f4a1ce4316d4315</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-20 13:35:38</sys_created_on>
+        <sys_id>d86dbe44473cbe100f4a1ce4316d4375</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19a01d52a1b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-20 13:35:38</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>506dbe44e63cbe103724db03011c5b75</update_guid>
+        <update_guid_history>506dbe44e63cbe103724db03011c5b75:403206136,074d7684373cbe10d36b413104ce0c2f:430271738,05993640933cbe10fb5662083c944b69:-384423660,4e25f2c839f8be10752eadd6bd286e47:-1605309193,a6cca64068f8be10069b9ca4ffe3a87f:-1574786537</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">38a10bc8473cbe100f4a1ce4316d4355</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-20 13:54:14</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>535877cd63a24dd1a96f1bada52e6e71</sys_id>
+        <sys_metadata>a6cca64047f8be100f4a1ce4316d437e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Mobile Request Management" source="x_888083_mobile_re">031bb39483003210a4f252e0deaad3f8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mobile Request Management">031bb39483003210a4f252e0deaad3f8</sys_scope>
+        <sys_scope_delete display_value="">6012e3eb19c544aa8fbcea5891b35a44</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_a6cca64047f8be100f4a1ce4316d437e</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_a6cca64047f8be100f4a1ce4316d437e">d86dbe44473cbe100f4a1ce4316d4375</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-20 13:54:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
